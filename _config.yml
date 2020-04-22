@@ -11,8 +11,8 @@ description: Welcome to manisha's blog!
 github_username: manishadubey91
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: manishadubey91
+twitter_username: https://twitter.com/manishadubey91
 
 # Set this to true to get LaTeX math equation support
 use_math: true
